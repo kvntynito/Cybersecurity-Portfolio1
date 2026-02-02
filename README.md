@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio 1 (P1) — Homelab + Telemetry + Case Files
+# Cybersecurity Portfolio 1 (P1) — Homelab Build, Telemetry, & Case Files
 
 ## Overview
 This portfolio documents a practical security lab environment and the workflows built on top of it:
