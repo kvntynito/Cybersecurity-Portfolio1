@@ -11,9 +11,9 @@ This portfolio uses representative hostnames/IP ranges and redacts WAN/public IP
 
 ---
 
-## Featured Projects (P1)
+## Featured Projects
 
-### 1) Proxmox Segmentation Lab (Foundation)
+### -1) Proxmox Segmentation Lab (Foundation)
 **Repo:** `P1-1-proxmox-segmentation-lab`  
 **What it is:** segmented Proxmox + pfSense blueprint with VM inventory, firewall posture, and safe publishing guidelines.  
 **Why it’s included:** establishes the lab design used by all other P1 projects.
@@ -23,7 +23,7 @@ Repo: https://github.com/kvntynito/P1-1-proxmox-segmentation-lab
 
 ---
 
-### 2) Telemetry Pipeline (WEF + Sysmon → Wazuh / Elastic / Splunk)
+### -2) Telemetry Pipeline (WEF + Sysmon → Wazuh / Elastic / Splunk)
 **Repo:** `P1-2-wef-sysmon-to-wazuh-elastic-splunk`  
 **What it is:** blueprint for centralized Windows telemetry collection and multi-platform validation.  
 **Why it’s included:** builds SOC-style telemetry flow and repeatable validation checks.
@@ -32,7 +32,7 @@ Repo: https://github.com/kvntynito/P1-2-wef-sysmon-to-wazuh-elastic-splunk
 
 ---
 
-### 3) Incident Investigation Case Files
+### -3) Incident Investigation Case Files
 **Repo:** `P1-3-incident-investigation-casefiles`  
 **What it is:** case templates + detections folders (Splunk searches / Elastic queries / Wazuh notes) tied to lab telemetry.  
 **Why it’s included:** documents investigation workflow (timeline, IOCs, pivots) with sanitized evidence.
