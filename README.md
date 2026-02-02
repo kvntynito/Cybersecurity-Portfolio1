@@ -19,7 +19,7 @@ This portfolio uses representative hostnames/IP ranges and redacts WAN/public IP
 **Why it’s included:** establishes the lab design used by all other P1 projects.
 - Key artifacts: architecture, bridges, firewall policy, IP plan, VM inventory
 
-➡️ Repo: https://github.com/kvntynito/P1-1-proxmox-segmentation-lab
+Repo: https://github.com/kvntynito/P1-1-proxmox-segmentation-lab
 
 ---
 
@@ -28,7 +28,7 @@ This portfolio uses representative hostnames/IP ranges and redacts WAN/public IP
 **What it is:** blueprint for centralized Windows telemetry collection and multi-platform validation.  
 **Why it’s included:** builds SOC-style telemetry flow and repeatable validation checks.
 
-➡️ Repo: https://github.com/kvntynito/P1-2-wef-sysmon-to-wazuh-elastic-splunk
+Repo: https://github.com/kvntynito/P1-2-wef-sysmon-to-wazuh-elastic-splunk
 
 ---
 
@@ -37,7 +37,7 @@ This portfolio uses representative hostnames/IP ranges and redacts WAN/public IP
 **What it is:** case templates + detections folders (Splunk searches / Elastic queries / Wazuh notes) tied to lab telemetry.  
 **Why it’s included:** documents investigation workflow (timeline, IOCs, pivots) with sanitized evidence.
 
-➡️ Repo: https://github.com/kvntynito/P1-3-incident-investigation-casefiles
+Repo: https://github.com/kvntynito/P1-3-incident-investigation-casefiles
 
 ---
 
